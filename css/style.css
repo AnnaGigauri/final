@@ -85,11 +85,33 @@ ul{
     margin-left: 40px;
 }
 .inputs{
-    margin-top: 40px;
-    margin-left: 60px;
+    margin-top: 200px;
+    margin-left: 130px;
+}
+.input-section{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.input1{
+    height: 30px;
+    width: 250px;
+    margin-left: 50px;
+}
+.input2{
+    height: 30px;
+    width: 250px;
+    margin-left: 50px;
 }
 .input-pgbh{
     font-size: 17px;
     font-family: raleway;
     font-weight: 200;
+    margin-bottom: 10px;
+    margin-top: 55px;
+    margin-left: 50px;
+}
+.input-img{
+    margin-top: 50px;
+    width: 520px;
+    height: 650px;
 }
