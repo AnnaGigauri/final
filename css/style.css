@@ -34,6 +34,7 @@ ul{
 .nav{
     margin-left: 40px;
     color: black;
+    font-size: 12px;
 }
 .fa-search{
     color: black;
@@ -86,11 +87,11 @@ ul{
 }
 .inputs{
     margin-top: 200px;
-    margin-left: 130px;
+    margin-left: 280px;
 }
 .input-section{
     display: flex;
-    flex-direction: row-reverse;
+    /* flex-direction: row-reverse; */
 }
 .input1{
     height: 30px;
@@ -110,8 +111,15 @@ ul{
     margin-top: 55px;
     margin-left: 50px;
 }
+.input-1{
+    margin-bottom: 70px;
+}
 .input-img{
     margin-top: 50px;
-    width: 520px;
-    height: 650px;
+    width: 400px;
+    height: 530px;
+    margin-left: 160px;
+}
+.section-1{
+    display: flex;
 }
